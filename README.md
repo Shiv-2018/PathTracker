@@ -16,7 +16,7 @@ A simple and interactive pathfinding visualizer built with **React**. This proje
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 - **React** with Vite
 - **JavaScript**
@@ -24,15 +24,4 @@ A simple and interactive pathfinding visualizer built with **React**. This proje
 
 ---
 
-## 📦 Setup Instructions
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/pathfinder-visualizer.git
-cd pathfinder-visualizer
-
-# Install dependencies
-npm install
-
-# Run the app
-npm run dev
