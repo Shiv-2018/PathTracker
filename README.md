@@ -2,7 +2,8 @@
 
 A simple and interactive pathfinding visualizer built with **React**. This project allows you to compare **Breadth-First Search (BFS)** and **Depth-First Search (DFS)** algorithms in real-time using animation on a customizable grid.
 
-![screenshot](demo.gif) <!-- Optional: Replace with a real screenshot or demo link -->
+![alt text](public/image.png)
+<!-- Optional: Replace with a real screenshot or demo link -->
 
 ---
 
